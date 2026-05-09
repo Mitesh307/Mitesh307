@@ -3,7 +3,7 @@ I'm fresher<br><br>Seeking an internship to work on real time projects<br><br>CI
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mitesh Baikar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miteshbaikar12@gmail.com) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/mitesh-baikar-3004a22a0/))](https://linkedin.com/in/Mitesh Baikar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miteshbaikar12@gmail.com) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
