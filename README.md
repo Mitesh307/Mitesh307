@@ -19,7 +19,7 @@ As a **fresher Cloud & DevOps enthusiast** from Mumbai, I specialize in building
 Here's a snapshot of my journey: 🧑‍🚀🚀
 
 **1. AWS Hands-On Experience ⚙️**
-- Built and deployed **3 real-world AWS projects** from scratch
+- Built and deployed **Real-world AWS projects** from scratch
 - Hands-on with EC2, S3, Lambda, CloudFront, SNS, CloudWatch, IAM, VPC, Amplify
 - Deployed serverless pipelines, static websites, and monitoring systems
 
@@ -148,10 +148,10 @@ Here's a snapshot of my journey: 🧑‍🚀🚀
 
 - 🔭 Working on **AWS Cloud Projects**
 - 🌱 Learning **GitHub Actions, Docker, Terraform**
-- 👯 Looking for **Cloud & DevOps Internship**
+- 👯 Looking for **Cloud & DevOps Entry-Level/Internship Opportunity**
 - 💬 Ask me about **AWS, Serverless, Cloud Architecture**
 - 📫 Reach me at **miteshbaikar12@gmail.com**
-- ⚡ Fun fact: **I built 3 AWS projects as a complete fresher!** 🔥
+- ⚡ Fun fact: **I built AWS projects as a complete fresher!** 🔥
 
 ---
 
