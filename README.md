@@ -20,10 +20,11 @@ Here's a snapshot of my journey: 🧑‍🚀🚀
 
 **1. AWS Hands-On Experience ⚙️**
 - Built and deployed **3 real-world AWS projects** from scratch
-- Hands-on with EC2, S3, Lambda, CloudFront, SNS, CloudWatch, IAM, SQS, VPC
+- Hands-on with EC2, S3, Lambda, CloudFront, SNS, CloudWatch, IAM, VPC, Amplify
 - Deployed serverless pipelines, static websites, and monitoring systems
 
 **2. Projects I've Built 💻**
+- **CloudDeploy** — CI/CD Pipeline using Kubernetes & Github Actions
 - **ServerlessNotify** — Event-driven file processing & email notification system
 - **SecureStaticSite** — Secure static website with HTTPS + IAM least-privilege
 - **CloudWatch Monitor** — Real-time EC2 CPU monitoring & auto alert system
