@@ -151,7 +151,6 @@ Here's a snapshot of my journey: 🧑‍🚀🚀
 - 👯 Looking for **Cloud & DevOps Entry-Level/Internship Opportunity**
 - 💬 Ask me about **AWS, Serverless, Cloud Architecture**
 - 📫 Reach me at **miteshbaikar12@gmail.com**
-- ⚡ Fun fact: **I built AWS projects as a complete fresher!** 🔥
 
 ---
 
